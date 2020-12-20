@@ -1,5 +1,8 @@
 # Audiobook-python
+Instead of buying an audiobook, we can make one using Pyton.
+
 To read PDF file using Python pip install pypdf2.
+
 To Read text (Text to speech) pip install pyaudio pip install pyttsx3
 
 Note:  
